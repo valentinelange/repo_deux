@@ -1,3 +1,7 @@
 bob
+<<<<<<< HEAD
 
 modif collaborateur 2
+=======
+modification de collaborateur1
+>>>>>>> 1d007fa1604b9e97858d20472fd96d7831adf005
